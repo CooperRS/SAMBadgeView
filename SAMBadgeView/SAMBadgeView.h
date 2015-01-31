@@ -6,6 +6,8 @@
 //  Copyright 2011-2013 Sam Soffes. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+
 /**
  Options for aligning the badge horizontally.
  */
